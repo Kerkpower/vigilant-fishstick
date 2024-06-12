@@ -1,3 +1,5 @@
+Reddit: 2024.17.0  
+Twitch: 16.9.1  
 YouTube: 19.20.34  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
